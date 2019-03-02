@@ -1,0 +1,13 @@
+﻿# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+robin: # replace this with your info
+  name: "Robin"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: 
+  email:
+  twitter: 
+# you can add more authors here
