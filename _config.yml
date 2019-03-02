@@ -7,7 +7,7 @@ credits: ''
 author: Robin Lin
 url: ''
 baseurl: /
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: './images/'
 logo: logo.png
 gems:
   - jekyll-asciidoc
